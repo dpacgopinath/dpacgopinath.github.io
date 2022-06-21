@@ -4,4 +4,9 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
+gems:
+  - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
+whitelist:
+  - jekyll-sitemap
