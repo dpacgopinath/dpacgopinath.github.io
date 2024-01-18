@@ -27,7 +27,7 @@ More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A f
 ### Highlights
 
 * Our paper titled "Simulation and Retargeting of Complex Multi-Character Interactions" has been accepted at SIGGRAPH 2023!
-<div align="center"><iframe width="400" height="225" src="https://www.youtube.com/watch?v=HQZIn3IgfYY"></iframe></div>
+<div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/HQZIn3IgfYY"></iframe></div>
 
 * Our work "CIRCLE: Capture In Rich Contextual Environments" ([website](https://stanford-tml.github.io/circle_dataset/)) was presented at CVPR 2023!
 
