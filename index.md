@@ -5,7 +5,9 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I am a Machine Learning Researcher in the Foundation Models team at Apple Inc. Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), working on AI for Creativity, specifically in human motion modeling and generative modeling for character animation. Previously at Meta AI, I was in the Language and Translation Technologies team, where I co-developed and deployed Neural Machine Translation models for the Facebook family of apps, supporting over 7 billion translations per day.
+I am a Machine Learning Researcher in the Foundation Models team at Apple Inc. in New York City, NY.
+
+Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), working on AI for Creativity, specifically in human motion modeling and generative modeling for character animation. Previously at Meta AI, I was in the Language and Translation Technologies team, where I co-developed and deployed Neural Machine Translation models for the Facebook family of apps, supporting over 7 billion translations per day.
 
 In the past, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
@@ -25,9 +27,9 @@ More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A f
 ### Highlights
 
 * Our paper titled "Simulation and Retargeting of Complex Multi-Character Interactions" has been accepted at SIGGRAPH 2023!
-<div align="center"><iframe width="400" height="225" src="https://www.youtube.com/watch?v=HQZIn3IgfYY"></iframe></div>
+<div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/HQZIn3IgfYY"></iframe></div>
 
-* Our work "CIRCLE: Capture In Rich Contextual Environments" ([https://stanford-tml.github.io/circle_dataset/](website)) was presented at CVPR 2023!
+* Our work "CIRCLE: Capture In Rich Contextual Environments" ([website](https://stanford-tml.github.io/circle_dataset/)) was presented at CVPR 2023!
 
 * Our paper on "Physics based Character Controllers using Conditional VAEs" has been accepted at SIGGRAPH 2022!
 <div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/6vZkzVvHUzg"></iframe></div>
