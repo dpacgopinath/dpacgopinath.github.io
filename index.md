@@ -5,13 +5,13 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I am a Machine Learning Researcher in the Foundation Models team at Apple Inc. in New York City, NY.
+I am a Machine Learning Researcher in the Foundation Models (FM) team at Apple Inc., the core team training models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and FM Developer API, leading several efforts in pretraining, post-training and evaluation of Large Language Models with a focus on model recipe, data quality and multilinguality.
 
 Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), working on AI for Creativity, specifically in human motion modeling and generative modeling for character animation. Previously at Meta AI, I was in the Language and Translation Technologies team, where I co-developed and deployed Neural Machine Translation models for the Facebook family of apps, supporting over 7 billion translations per day.
 
 In the past, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
-I obtained a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and a bachelor's degree from BITS Pilani, India.
+I have a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and a bachelor's degree from BITS Pilani, India.
 
 More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A full list of my publications can be found [here](#publications) and on [Google Scholar](https://scholar.google.com/citations?user=-ZCV1BsAAAAJ).
 
@@ -26,21 +26,27 @@ More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A f
 
 ### Highlights
 
-* Our paper titled "Simulation and Retargeting of Complex Multi-Character Interactions" has been accepted at SIGGRAPH 2023!
+* [June 2025] Updates to Apple's On-Device and Server Foundation Language Models [[blogpost](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)]
+
+* [May 2025] Paper titled "Interleaved Reasoning for Large Language Models via Reinforcement Learning" significantly reduces time to first token and improves accuracy in reasoning tasks [paper](https://arxiv.org/abs/2505.19640)
+
+* [2024] Read the Apple Foundation Models [technical report](https://arxiv.org/abs/2407.21075) and accompanying [blogpost](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+
+* [2023] Our paper titled "Simulation and Retargeting of Complex Multi-Character Interactions" has been accepted at SIGGRAPH 2023!
 <div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/HQZIn3IgfYY"></iframe></div>
 
-* Our work "CIRCLE: Capture In Rich Contextual Environments" ([website](https://stanford-tml.github.io/circle_dataset/)) was presented at CVPR 2023!
+* [2023] Our work "CIRCLE: Capture In Rich Contextual Environments" ([website](https://stanford-tml.github.io/circle_dataset/)) was presented at CVPR 2023!
 
-* Our paper on "Physics based Character Controllers using Conditional VAEs" has been accepted at SIGGRAPH 2022!
+* [2022] Our paper on "Physics based Character Controllers using Conditional VAEs" has been accepted at SIGGRAPH 2022!
 <div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/6vZkzVvHUzg"></iframe></div>
 
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai) featured our [SIGGRAPH 2021 paper](https://research.facebook.com/publications/control-strategies-for-physically-simulated-characters-performing-two-player-competitive-sports/) on physically simulated AI agents that learn to compete in boxing and fencing in a video that went viral with 2.3+ million views!
 <div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/SsJ_AusntiU"></iframe></div>
 
-* We open sourced [fairmotion](https://github.com/facebookresearch/fairmotion), a library that provides AI researchers tools to work with motion capture data, visualizers and operators. [[Meta AI tweet](https://twitter.com/MetaAI/status/1300500708530110464)]
-
-* Our paper titled "A Scalable Approach to Control Diverse Behaviors for Physically Simulated Characters" has been accepted at SIGGRAPH 2022!
+* [2021] Our paper titled "A Scalable Approach to Control Diverse Behaviors for Physically Simulated Characters" has been accepted at SIGGRAPH 2021!
 <div align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/QnIwwAKX5H4"></iframe></div>
+
+* [2020] We open sourced [fairmotion](https://github.com/facebookresearch/fairmotion), a library that provides AI researchers tools to work with motion capture data, visualizers and operators. [[Meta AI tweet](https://twitter.com/MetaAI/status/1300500708530110464)]
 
 * [2018] We used multilingual translation models, single model trained on multiple lanugages from the same language family, to expand translation services to Indian and African languages. [[Facebook AI blogpost](https://engineering.fb.com/2018/09/11/ml-applications/expanding-automatic-machine-translation-to-more-languages/)] [Press coverage: [Venture Beat](https://venturebeat.com/2018/09/11/facebook-adds-24-new-languages-to-its-automated-translation-service/)]
 
@@ -51,6 +57,13 @@ More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A f
 ------------
 
 ### Publications
+*Interleaved Reasoning for Large Language Models via Reinforcement Learning*\
+R Xie, D Qiu, D Gopinath, D Lin, Y Sun, C Wang, S Potdar, B Dhingra\
+[[PDF](https://arxiv.org/pdf/2505.19640)]
+
+*Apple Intelligence Foundation Language Models*\
+T Gunter, Z Wang, C Wang, R Pang, A Narayanan, A Zhang, B Zhang, C Chen, C Chiu, D Qiu, D Gopinath, ...\
+[[PDF](https://arxiv.org/pdf/2407.21075)]
 
 *Simulation and Retargeting of Complex Multi-Character Interactions*\
 Y Zhang, D Gopinath, Y Ye, J Hodgins, G Turk, J Won\
@@ -66,6 +79,15 @@ CVPR, 2023\
 D Gopinath, H Joo, J Won\
 ACM SIGGRAPH Asia Posters, 2022\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3550082.3564186)]
+
+*Transformer Inertial Poser: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation*\
+Y Jiang, Y Ye, D Gopinath, J Won, AW Winkler, CK Liu\
+SIGGRAPH Asia 2022, 2022\
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3550469.3555428)]
+
+*Leveraging Demonstrations with Latent Space Priors*\
+J Gehring, D Gopinath, J Won, A Krause, G Synnaeve, N Usunier\
+[[PDF](https://arxiv.org/pdf/2210.14685)]
 
 *Physics-based Character Controllers using Conditional VAEs*\
 J Won, D Gopinath, and J Hodgins\
