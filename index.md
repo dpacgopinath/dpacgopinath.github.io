@@ -5,9 +5,9 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I am a Machine Learning Researcher in the Foundation Models (FM) team at Apple Inc., the core team training models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and FM Developer API, leading several efforts in pretraining, post-training and evaluation of Large Language Models with a focus on model recipe, data quality and multilinguality.
+I am a Machine Learning Researcher in the Foundation Models team at Apple, the core team building Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I lead several efforts in pretraining, post-training, and evaluation of LLMs focused on model training recipes, data research, and multilinguality.
 
-Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), working on AI for Creativity, specifically in human motion modeling and generative modeling for character animation. Previously at Meta AI, I was in the Language and Translation Technologies team, where I co-developed and deployed Neural Machine Translation models for the Facebook family of apps, supporting over 7 billion translations per day.
+Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal generative AI for character animation. At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the first neural network-based translation systems at Meta and served tens of billions of translations per day.
 
 In the past, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
@@ -26,7 +26,7 @@ More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A f
 
 ### Highlights
 
-* [June 2025] Updates to Apple's On-Device and Server Foundation Language Models [[blogpost](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)]
+* [June 2025] Launched new versions of Apple's On-Device and Server Foundation Language Models supporting several new capabilities and languages [[blogpost](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)]
 
 * [May 2025] Paper titled "Interleaved Reasoning for Large Language Models via Reinforcement Learning" significantly reduces time to first token and improves accuracy in reasoning tasks [paper](https://arxiv.org/abs/2505.19640)
 
