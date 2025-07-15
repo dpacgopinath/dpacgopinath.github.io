@@ -7,13 +7,13 @@ layout: default
 
 I am a Machine Learning Researcher in the Foundation Models team at Apple, the core team building Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I lead several efforts in pretraining, post-training, and evaluation of LLMs focused on model training recipes, data research, and multilinguality.
 
-Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
+I have nearly a decade of AI research experience. Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
 
 In the past, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
 I have a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and a bachelor's degree from BITS Pilani, India.
 
-More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A full list of my publications can be found [here](#publications) and on [Google Scholar](https://scholar.google.com/citations?user=-ZCV1BsAAAAJ).
+I am best reached by email at [dpacgopinath@gmail.com](mailto:dpacgopinath@gmail.com). More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A full list of my publications can be found [here](#publications) and on [Google Scholar](https://scholar.google.com/citations?user=-ZCV1BsAAAAJ).
 
 <!-- ------------
 
