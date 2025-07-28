@@ -5,7 +5,7 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I am a Machine Learning Researcher in the Foundation Models team at Apple, the core team building Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I lead several efforts in pretraining, post-training, and evaluation of LLMs focused on model training recipes, data research, and multilinguality.
+I am a Machine Learning Researcher in the Foundation Models team at Apple, the core team building Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I lead several efforts in pretraining and evaluation of LLMs focused on model training recipes, data research, and multilinguality.
 
 I have nearly a decade of AI research experience. Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
 
