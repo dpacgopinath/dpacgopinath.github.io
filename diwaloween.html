@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Diwaloween 2025</title>
+<style>
+  body {
+    background-color: #e9e9e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  #background-decor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    color: #000;
+  }
+
+  .decor-item {
+    position: absolute;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .decor-text {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 4.5em;
+    opacity: 0.08;
+  }
+
+  #text1 { top: 8%; left: 5%; }
+  #text2 { top: 20%; right: 5%; }
+  #text3 { top: 50%; left: 15%; }
+  #text4 { top: 80%; right: 10%; }
+  #text5 { bottom: 5%; left: 25%; }
+
+
+  #initial-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #question-text {
+    font-size: 5em;
+    color: #333;
+    margin-bottom: 30px;
+    background-color: rgba(233, 233, 233, 0.7);
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+  .retro-button {
+    background-color: #E53935;
+    border: 2px solid #a12222;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 5em;
+    cursor: pointer;
+    box-shadow: inset 0px 6px 10px 0px rgba(255,255,255,0.4), 0 9px #999;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+    -webkit-user-select: none;
+    transition: transform 0.1s, box-shadow 0.1s;
+  }
+
+  .retro-button:active {
+    background-color: #C62828;
+    box-shadow: inset 0px 6px 10px 0px rgba(255,255,255,0.4), 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  #video-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  #video-container { width: 100%; height: 100%; }
+  #player { width: 100%; height: 100%; }
+</style>
+<link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+</head>
+<body>
+
+<div id="background-decor">
+  <div class="decor-item decor-text" id="text1">Happy Diwaloween</div>
+  <div class="decor-item decor-text" id="text2">Happy Diwaloween</div>
+  <div class="decor-item decor-text" id="text3">Happy Diwaloween</div>
+  <div class="decor-item decor-text" id="text4">Happy Diwaloween</div>
+  <div class="decor-item decor-text" id="text5">Happy Diwaloween</div>
+</div>
+
+<div id="initial-screen">
+  <div id="question-text">is it the time?</div>
+  <button class="retro-button">🕺</button>
+</div>
+
+<div id="video-overlay">
+  <div id="video-container">
+    <div id="player"></div>
+  </div>
+</div>
+
+<script>
+  const discoButton = document.querySelector('.retro-button');
+  const videoOverlay = document.getElementById('video-overlay');
+
+  discoButton.addEventListener('click', playVideo);
+
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  var firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+  var player;
+  var timeChecker;
+
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+      height: '100%',
+      width: '100%',
+      videoId: 'Y8ZN7QjQcP0',
+      playerVars: {
+        'playsinline': 1,
+        'autoplay': 1,
+        'controls': 0, // <<< THIS IS NOW SET BACK TO 0 TO HIDE CONTROLS
+        'start': 57,
+        'end': 71
+      },
+      events: { 'onStateChange': onPlayerStateChange }
+    });
+  }
+
+  function playVideo() {
+    videoOverlay.style.display = 'flex';
+    player.playVideo();
+
+    timeChecker = setInterval(function() {
+      if (player.getCurrentTime() >= 71) {
+        closeVideo();
+      }
+    }, 250);
+  }
+
+  function closeVideo() {
+    location.reload();
+  }
+
+  function onPlayerStateChange(event) {
+    if (event.data == YT.PlayerState.ENDED) {
+      closeVideo();
+    }
+  }
+</script>
+
+</body>
+</html>
