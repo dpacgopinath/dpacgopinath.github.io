@@ -152,7 +152,8 @@
         'start': 57,
         'end': 71
       },
-      events: { 'onStateChange': onPlayerStateChange }
+      events: { 'onStateChange': onPlayerStateChange ,
+        'onReady': onPlayerReady // Register the onPlayerReady event}
     });
   }
 
@@ -176,6 +177,14 @@
       closeVideo();
     }
   }
+  // Function to call when the player is ready
+function onPlayerReady(event) {
+    // Attempt to set the playback quality to the highest available.
+    // Quality names include 'highres' (best), 'hd1080', 'hd720', 'large', etc.
+    // 'highres' requests the highest resolution supported by the video and player size.
+    event.target.setPlaybackQuality('highres');
+}
+
 </script>
 
 </body>
