@@ -5,13 +5,13 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I'm a Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/).
+I'm a Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/). My work spans multimodal pre-training and post-training data, evaluation infrastructure, and agentic post-training and evaluation.
 
-Previously, I was a Machine Learning Researcher in the Foundation Models team at Apple, which develops the Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I was a core contributor to the [AFM 2024](https://arxiv.org/abs/2407.21075) and [AFM 2025](https://arxiv.org/abs/2507.13575) models, leading several efforts in pretraining and evaluation of LLMs focused on model training recipes, data research, especially through a multilingual lens.
+I have nearly a decade of AI research experience. Previously, I was a Machine Learning Researcher in the Foundation Models team at Apple, which develops the Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I was a core contributor to the [AFM 2024](https://arxiv.org/abs/2407.21075) and [AFM 2025](https://arxiv.org/abs/2507.13575) models, leading several efforts in pretraining and evaluation of LLMs focused on model training recipes, data research, especially through a multilingual lens.
 
-I have nearly a decade of AI research experience. Previously, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
+Before that, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
 
-In the past, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
+Early in my career, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
 I have a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and a bachelor's degree from BITS Pilani, India.
 
@@ -28,6 +28,12 @@ I am best reached by email at [dpacgopinath@gmail.com](mailto:dpacgopinath@gmail
 
 ### Highlights
 
+* [September 2026] Our paper “Deep Multimodal Fusion for Persuasiveness Prediction” is awarded the ACM ICMI Ten-Year Technical Impact Award Runner-Up Award, to be presented on 5th October 2026 in Napoli, Italy!
+
+* [July 2026] Following the release of [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/) in May, Thinking Machines Lab releases [Inkling](https://thinkingmachines.ai/news/introducing-inkling/), our open-weights multimodal model trained from scratch.
+
+* [January 2026] Our paper titled "Over-Searching in Retrieval-Augmented Large Language Models" has been accepted for oral presentation at EACL 2026!
+  
 * [June 2025] Launched new versions of Apple's On-Device and Server Foundation Language Models supporting several new capabilities and languages [[blogpost](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)]
 
 * [May 2025] Paper titled "Interleaved Reasoning for Large Language Models via Reinforcement Learning" significantly reduces time to first token and improves accuracy in reasoning tasks [paper](https://arxiv.org/abs/2505.19640)
