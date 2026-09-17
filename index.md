@@ -5,15 +5,15 @@ layout: default
 <!-- ## About Me -->
 <a id="about-me"></a>
 
-I'm a Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/). My work spans multimodal pre-training and post-training data, evaluation infrastructure, and agentic post-training and evaluation, towards the mainline model training of [Interaction](https://thinkingmachines.ai/blog/interaction-models/) and [Inkling Models](https://thinkingmachines.ai/news/introducing-inkling/).
+I'm a Member of Technical Staff at [Thinking Machines Lab](https://thinkingmachines.ai/). My work spans multimodal pre-training and post-training data, evaluation infrastructure, and agentic post-training and evaluation, contributing to the mainline model training and release of [Interaction](https://thinkingmachines.ai/blog/interaction-models/) and [Inkling Models](https://thinkingmachines.ai/news/introducing-inkling/).
 
 I have a decade of AI research experience. Previously, I was a Machine Learning Researcher in the Foundation Models team at Apple, which develops the Large Language Models that power [Apple Intelligence](https://machinelearning.apple.com/research/introducing-apple-foundation-models) and other AI products across the company. I was a core contributor to the [AFM 2024](https://arxiv.org/abs/2407.21075) and [AFM 2025](https://arxiv.org/abs/2507.13575) models, leading several efforts in pretraining and evaluation of LLMs focused on model training recipes, data research, especially through a multilingual lens.
 
-Before that, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps, including Facebook, Instagram, and WhatsApp. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
+Before that, I was a research engineer at [Facebook AI Research](https://ai.facebook.com/) (Meta AI/FAIR), where I worked on AI for Creativity, specifically in multimodal [generative AI for character animation](https://x.com/AIatMeta/status/1300500708530110464). At Meta AI, I also worked in the Language and Translation Technologies team, where I developed and deployed Neural Machine Translation models for the Meta family of apps. The models I developed were the [first neural network-based translation systems at Meta](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and served tens of billions of translations per day.
 
-Early in my career, I've worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
+Early in my career, I worked as a software engineer at LinkedIn, and as an intern at Facebook AI, Microsoft Research, and Amazon.
 
-I have a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/), and a bachelor's degree from BITS Pilani, India.
+I have a master's degree from Language Technologies Institute, Carnegie Mellon University, where I worked on Multimodal ML with Prof. LP Morency at the [MultiComp Lab](http://multicomp.cs.cmu.edu/).
 
 I am best reached by email at [dpacgopinath@gmail.com](mailto:dpacgopinath@gmail.com). More details about my work experience are in [my CV](DeepakGopinath_CV.pdf). A full list of my publications can be found [here](#publications) and on [Google Scholar](https://scholar.google.com/citations?user=-ZCV1BsAAAAJ).
 
@@ -56,11 +56,11 @@ I am best reached by email at [dpacgopinath@gmail.com](mailto:dpacgopinath@gmail
 
 * [2020] We open sourced [fairmotion](https://github.com/facebookresearch/fairmotion), a library that provides AI researchers tools to work with motion capture data, visualizers and operators. [[Meta AI tweet](https://twitter.com/MetaAI/status/1300500708530110464)]
 
-* [2018] We used multilingual translation models, single model trained on multiple lanugages from the same language family, to expand translation services to Indian and African languages. [[Facebook AI blogpost](https://engineering.fb.com/2018/09/11/ml-applications/expanding-automatic-machine-translation-to-more-languages/)] [Press coverage: [Venture Beat](https://venturebeat.com/2018/09/11/facebook-adds-24-new-languages-to-its-automated-translation-service/)]
+* [2018] We used multilingual translation models, single model trained on multiple languages from the same language family, to expand translation services to Indian and African languages. [[Facebook AI blogpost](https://engineering.fb.com/2018/09/11/ml-applications/expanding-automatic-machine-translation-to-more-languages/)] [Press coverage: [Venture Beat](https://venturebeat.com/2018/09/11/facebook-adds-24-new-languages-to-its-automated-translation-service/)]
 
 * [2017] Our work on training and deploying neural network based translation models was featured in the [Facebook AI blog](https://engineering.fb.com/2017/08/03/ml-applications/transitioning-entirely-to-neural-machine-translation/) and received press coverage [Press coverage: [The Verge](https://www.theverge.com/2017/8/4/16093872/facebook-ai-translations-artificial-intelligence), [Slator](https://slator.com/facebook-open-source-neural-machine-translation-zuckerberg-announces/)]
 
-* [2011] I was part of a small team of undergraduate students that build Acyut, India's first indigenously built autonomous humanoid robot, at BITS Pilani. [Press coverage: [The Hindu](https://www.thehindu.com/features/education//article59944069.ece) , [The Times of India](https://www.educationtimes.com/article/campus-beat-college-events/69542636/robotic-rendezvous)]
+* [2011] I was part of a small team of undergraduate students who built Acyut, India's first indigenously built autonomous humanoid robot, at BITS Pilani. [Press coverage: [The Hindu](https://www.thehindu.com/features/education//article59944069.ece) , [The Times of India](https://www.educationtimes.com/article/campus-beat-college-events/69542636/robotic-rendezvous)]
 
 ------------
 
