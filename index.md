@@ -65,9 +65,19 @@ I am best reached by email at [dpacgopinath@gmail.com](mailto:dpacgopinath@gmail
 ------------
 
 ### Publications
+
+*Over-Searching in Retrieval-Augmented Large Language Models*\
+R Xie, D Gopinath, D Qiu, D Lin, H Sun, S Potdar, B Dhingra\
+EACL, 2026\
+[[PDF](https://aclanthology.org/2026.eacl-long.361.pdf)]
+
 *Interleaved Reasoning for Large Language Models via Reinforcement Learning*\
 R Xie, D Qiu, D Gopinath, D Lin, Y Sun, C Wang, S Potdar, B Dhingra\
 [[PDF](https://arxiv.org/pdf/2505.19640)]
+
+*Apple Intelligence Foundation Language Models: Tech Report 2025*\
+Apple Inc \
+[[PDF](https://arxiv.org/pdf/2507.13575)]
 
 *Apple Intelligence Foundation Language Models*\
 T Gunter, Z Wang, C Wang, R Pang, A Narayanan, A Zhang, B Zhang, C Chen, C Chiu, D Qiu, D Gopinath, ...\
@@ -90,7 +100,7 @@ ACM SIGGRAPH Asia Posters, 2022\
 
 *Transformer Inertial Poser: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation*\
 Y Jiang, Y Ye, D Gopinath, J Won, AW Winkler, CK Liu\
-SIGGRAPH Asia 2022, 2022\
+ACM SIGGRAPH Asia, 2022\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3550469.3555428)]
 
 *Leveraging Demonstrations with Latent Space Priors*\
